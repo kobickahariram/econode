@@ -3,6 +3,7 @@
 Athena Hackathon '23
 
 Brief: Help CODENODE meet their ESG goals by reducing environmental impact using Smart Building Technologies
+Added prizes: Highest potential impact, Best consideration of accessible design in your solution
 
 Please copy the link below for our project slides :) 
 
