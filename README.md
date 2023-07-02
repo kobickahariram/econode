@@ -1,7 +1,8 @@
 # econode
 
-CODENODE project
-Big impact category
+Athena Hackathon '23
+
+Brief: Help CODENODE meet their ESG goals by reducing environmental impact using Smart Building Technologies
 
 Please copy the link below for our project slides :) 
 
